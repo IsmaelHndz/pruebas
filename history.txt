@@ -2,4 +2,4 @@ Este es un archivo de prueba en git
 hola que tal 
 22 años de edad
 
-Hoy nos fue mal u.u 
+Hoy nos fue muy mal u.u 
